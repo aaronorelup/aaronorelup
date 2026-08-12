@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 180" width="1280" height="180" role="img" aria-label="Tea house at dusk">
+  <defs>
+    <linearGradient id="askyB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161B22"/><stop offset="60%" stop-color="#1B222B"/><stop offset="100%" stop-color="#222B36"/>
+    </linearGradient>
+    <linearGradient id="ahillB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3C4A2E"/><stop offset="100%" stop-color="#2B3622"/>
+    </linearGradient>
+    <linearGradient id="ahill2B" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4A5A38" stop-opacity=".5"/><stop offset="100%" stop-color="#36432A" stop-opacity=".5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="180" fill="url(#askyB)"/>
+
+  <circle cx="1090" cy="60" r="34" fill="#B87F8C" opacity=".36"/>
+  <circle cx="1090" cy="60" r="22" fill="#C98C9A" opacity=".3"/>
+
+  <path d="M0 128 C 150 100, 300 122, 430 132 C 560 142, 700 112, 860 122 C 1000 130, 1140 110, 1280 120 L1280 180 L0 180 Z" fill="url(#ahill2B)"/>
+  <path d="M0 148 C 190 130, 340 156, 520 153 C 720 150, 860 132, 1040 144 C 1150 152, 1220 148, 1280 143 L1280 180 L0 180 Z" fill="url(#ahillB)"/>
+
+  <g transform="translate(210 92) scale(.62)" fill="#6B4B33">
+    <path d="M-92 26 L0 -12 L92 26 L74 26 L74 30 L-74 30 L-74 26 Z"/>
+    <rect x="-58" y="30" width="116" height="58"/>
+    <rect x="-30" y="48" width="26" height="40" fill="#D9A441" opacity=".55"/>
+    <rect x="8" y="48" width="26" height="40" fill="#D9A441" opacity=".55"/>
+    <rect x="-62" y="86" width="124" height="6"/>
+  </g>
+  <circle cx="273" cy="120" r="5.5" fill="#D9A441" opacity=".85"/>
+
+  <g fill="#C98C9A" opacity=".6">
+    <ellipse cx="352" cy="34" rx="5" ry="3.2" transform="rotate(40 352 34)"/>
+    <ellipse cx="470" cy="46" rx="6" ry="4" transform="rotate(-24 470 46)"/>
+    <ellipse cx="620" cy="32" rx="5" ry="3.2" transform="rotate(-42 620 32)"/>
+    <ellipse cx="900" cy="118" rx="5.5" ry="3.5" transform="rotate(18 900 118)"/>
+    <ellipse cx="1010" cy="140" rx="6" ry="4" transform="rotate(12 1010 140)"/>
+    <ellipse cx="1180" cy="86" rx="5" ry="3.2" transform="rotate(30 1180 86)"/>
+  </g>
+
+  <rect x="440" y="96" width="60" height="2.5" fill="#D9A441"/>
+  <text x="440" y="86" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#B5A88F" letter-spacing="3.4">THE LEDGER &#183; AARONORELUP.COM</text>
+</svg>

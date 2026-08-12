@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Aaron Orelup — Diving head first into the future with wide eyes and a brazen heart. Bastrop, Texas">
+  <defs>
+    <linearGradient id="skyd" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="62%" stop-color="#1B222B"/>
+      <stop offset="100%" stop-color="#222B36"/>
+    </linearGradient>
+    <linearGradient id="hilld" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3C4A2E"/>
+      <stop offset="100%" stop-color="#2B3622"/>
+    </linearGradient>
+    <linearGradient id="hill2d" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4A5A38" stop-opacity=".5"/>
+      <stop offset="100%" stop-color="#36432A" stop-opacity=".5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#skyd)"/>
+
+  <circle cx="1058" cy="104" r="46" fill="#B87F8C" opacity=".38"/>
+  <circle cx="1058" cy="104" r="30" fill="#C98C9A" opacity=".32"/>
+
+  <path d="M0 258 C 150 218, 300 248, 430 262 C 560 276, 700 236, 860 248 C 1000 258, 1140 232, 1280 246 L1280 320 L0 320 Z" fill="url(#hill2d)"/>
+  <path d="M0 284 C 190 260, 340 294, 520 290 C 720 286, 860 262, 1040 278 C 1150 288, 1220 282, 1280 276 L1280 320 L0 320 Z" fill="url(#hilld)"/>
+
+  <g transform="translate(940 172)" fill="#6B4B33">
+    <path d="M-92 26 L0 -12 L92 26 L74 26 L74 30 L-74 30 L-74 26 Z"/>
+    <rect x="-58" y="30" width="116" height="58"/>
+    <rect x="-30" y="48" width="26" height="40" fill="#D9A441" opacity=".55"/>
+    <rect x="8" y="48" width="26" height="40" fill="#D9A441" opacity=".55"/>
+    <rect x="-62" y="86" width="124" height="6"/>
+  </g>
+  <circle cx="1042" cy="218" r="8" fill="#D9A441" opacity=".85"/>
+
+  <!-- petals — kept clear of the type block -->
+  <g fill="#C98C9A" opacity=".65">
+    <ellipse cx="180" cy="42" rx="6.5" ry="4" transform="rotate(-24 180 42)"/>
+    <ellipse cx="322" cy="52" rx="5.5" ry="3.5" transform="rotate(12 322 52)"/>
+    <ellipse cx="620" cy="44" rx="5" ry="3.2" transform="rotate(30 620 44)"/>
+    <ellipse cx="782" cy="58" rx="6" ry="4" transform="rotate(-8 782 58)"/>
+    <ellipse cx="884" cy="34" rx="5" ry="3.2" transform="rotate(22 884 34)"/>
+    <ellipse cx="866" cy="154" rx="6" ry="4" transform="rotate(-16 866 154)"/>
+    <ellipse cx="1152" cy="96" rx="5.5" ry="3.5" transform="rotate(40 1152 96)"/>
+    <ellipse cx="1196" cy="196" rx="5" ry="3.2" transform="rotate(-34 1196 196)"/>
+  </g>
+
+  <text x="80" y="126" font-family="'Source Serif 4','Iowan Old Style',Georgia,serif" font-size="62" font-weight="600" fill="#F0E6D6" letter-spacing="-0.5">Aaron Orelup</text>
+  <text x="82" y="168" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17.5" fill="#A8B0BC">Diving head first into the future with wide eyes and a brazen heart.</text>
+  <rect x="82" y="188" width="86" height="3" fill="#D9A441"/>
+  <text x="82" y="220" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#C4A46A" letter-spacing="2.2">BASTROP, TEXAS</text>
+</svg>
