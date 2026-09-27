@@ -3,9 +3,9 @@
   <img alt="Aaron Orelup — Diving head first into the future with wide eyes and a brazen heart. Bastrop, Texas." src="assets/banner-light.svg">
 </picture>
 
-<a href="assets/showreel-30.mp4"><img src="assets/showreel-preview.gif" width="100%" alt="Showreel preview: LLM Monster Hunter, a 220-agent hive, Blackwater, GRIND & GRIMOIRE, the ComfyUI pipeline and MySillyTavern, cut to music."></a>
+<a href="https://cdn.jsdelivr.net/gh/aaronorelup/aaronorelup@main/assets/showreel-30.mp4"><img src="assets/showreel-preview.gif" width="100%" alt="Showreel preview: LLM Monster Hunter, a 220-agent hive, Blackwater, GRIND & GRIMOIRE, the ComfyUI pipeline and MySillyTavern, cut to music."></a>
 
-**Showreel:** [30 seconds, with sound](assets/showreel-30.mp4) · [15-second cut](assets/showreel-15.mp4). Every number in it is real and dated; the motion graphics and the score are code, rendered frame by frame from an HTML canvas timeline.
+**Showreel:** [30 seconds, with sound](https://cdn.jsdelivr.net/gh/aaronorelup/aaronorelup@main/assets/showreel-30.mp4) · [15-second cut](https://cdn.jsdelivr.net/gh/aaronorelup/aaronorelup@main/assets/showreel-15.mp4). Every number in it is real and dated; the motion graphics and the score are code, rendered frame by frame from an HTML canvas timeline.
 
 I learned to code last year. Before May 2025 I had never written software, used git, opened VS Code, or typed anything into a terminal. I taught myself Python and the rest of it alone, because I could see how powerful AI was getting and I wanted to build real things with it — and you can't do that without the basics first.
 
