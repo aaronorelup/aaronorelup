@@ -3,9 +3,9 @@
   <img alt="Aaron Orelup — Diving head first into the future with wide eyes and a brazen heart. Bastrop, Texas." src="assets/banner-light.svg">
 </picture>
 
-<a href="https://cdn.jsdelivr.net/gh/aaronorelup/aaronorelup@main/assets/showreel-v2-30.mp4"><img src="assets/showreel-v2-preview.gif" width="100%" alt="Showreel preview: The Hidden Curriculum rebuilt from 251 sources, Claude painting in oil, Storm Bell Fighter and the numbers behind them, cut to music."></a>
+<a href="https://cdn.jsdelivr.net/gh/aaronorelup/aaronorelup@main/assets/showreel-v3-30.mp4"><img src="assets/showreel-v3-preview.gif" width="100%" alt="Showreel preview: The Hidden Curriculum, Claude painting in oil, BloodTailor and Jefrie, as a 3D scene rendered in Blender."></a>
 
-**Showreel:** [30 seconds, with sound](https://cdn.jsdelivr.net/gh/aaronorelup/aaronorelup@main/assets/showreel-v2-30.mp4) · [15-second cut](https://cdn.jsdelivr.net/gh/aaronorelup/aaronorelup@main/assets/showreel-v2-15.mp4). What I'm building now. Every number in it is real and dated; the motion graphics are code, drawn frame by frame on an HTML canvas, the music is ElevenLabs, and Blender cut and rendered the two together.
+**Showreel:** [30 seconds, with sound](https://cdn.jsdelivr.net/gh/aaronorelup/aaronorelup@main/assets/showreel-v3-30.mp4) · [15-second cut](https://cdn.jsdelivr.net/gh/aaronorelup/aaronorelup@main/assets/showreel-v3-15.mp4). What I'm building now. Every number in it is real and dated; it's a 3D scene built and rendered in Blender, one station per project, and the music is ElevenLabs.
 
 I learned to code last year. Before May 2025 I had never written software, used git, opened VS Code, or typed anything into a terminal. I taught myself Python and the rest of it alone, because I could see how powerful AI was getting and I wanted to build real things with it — and you can't do that without the basics first.
 
